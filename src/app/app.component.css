@@ -1,0 +1,38 @@
+.main {
+  color: white;
+  text-align: center;
+}
+
+.angular-logo {
+  background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTAgMjUwIj4KICAgIDxwYXRoIGZpbGw9IiNERDAwMzEiIGQ9Ik0xMjUgMzBMMzEuOSA2My4ybDE0LjIgMTIzLjFMMTI1IDIzMGw3OC45LTQzLjcgMTQuMi0xMjMuMXoiIC8+CiAgICA8cGF0aCBmaWxsPSIjQzMwMDJGIiBkPSJNMTI1IDMwdjIyLjItLjFWMjMwbDc4LjktNDMuNyAxNC4yLTEyMy4xTDEyNSAzMHoiIC8+CiAgICA8cGF0aCAgZmlsbD0iI0ZGRkZGRiIgZD0iTTEyNSA1Mi4xTDY2LjggMTgyLjZoMjEuN2wxMS43LTI5LjJoNDkuNGwxMS43IDI5LjJIMTgzTDEyNSA1Mi4xem0xNyA4My4zaC0zNGwxNy00MC45IDE3IDQwLjl6IiAvPgogIDwvc3ZnPg==");
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+
+.controls {
+  font-size: 24px;
+}
+
+input {
+  margin: 10px;
+  padding: 5px 10px;
+  font-size: 18px;
+  width: 60px;
+  text-align: right;
+  border: 0;
+}
+
+button {
+  font-size: 18px;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.blocks {
+  text-align: center;
+}
+.block {
+  height: 100px;
+  position: relative;
+  width: 100px;
+}
